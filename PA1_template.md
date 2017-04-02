@@ -186,7 +186,7 @@ xyplot(steps~interval|wf,data2D,layout=c(1,2),type="l",
        scales=list(y=list(tick.number = 7),x=list(tick.number = 13)),
        ylab="Average Steps (all days)",
        xlab="5-minute Time Interval (Starting Time)",
-       main="Average Steps (all days) by 5-minute Time Interval (Weekend vs Weekday)")
+       main="Average Steps (all days) by 5-minute Interval (Weekend vs Weekday)")
 ```
 
 ![](PA1_template_files/figure-html/unnamed-chunk-11-1.png)<!-- -->
